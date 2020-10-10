@@ -1,1 +1,1 @@
-# CL23I
+# Box Class
